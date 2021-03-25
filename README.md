@@ -1,6 +1,5 @@
 # Fruit-Ninja
 It is a single player game in which the player slices fruits with a blade controlled by mouse swipes . As the fruits are thrown onto the screen, the player swipes the mouse across the screen to create a slicing motion, attempting to slice the fruit.
-==== fruit ninja game =========
 To run the JAR file .. it must have the resources at the same folder (pictrures,sounds..etc) 
 You have to choose the difficulty first before clicking on start button and if you don't it will appear a warning message
 Every fruit will be sliced only one time and slicing it many times won't affect the score
